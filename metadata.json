@@ -1,0 +1,7 @@
+{
+  "name": "FaceAuth Attendance",
+  "description": "AI-powered Face Authentication and Attendance System using Gemini 2.5 Flash for biometric verification and liveness detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
