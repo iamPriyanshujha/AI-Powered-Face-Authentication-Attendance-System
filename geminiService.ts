@@ -4,7 +4,7 @@ import { MODEL_NAME } from '../constants';
 
 // --- API KEY CONFIGURATION ---
 // We use the provided key directly as requested.
-const apiKey =  "AIzaSyAHTROwlfSgjkuCG4GyRldaJZtzQ0CaXEA";
+const apiKey =  "AIzaSyCmQHs22WrXUbKH9y7E71kXIiRXMAN29Zo";
 
 const ai = new GoogleGenAI({ apiKey: apiKey });
 
